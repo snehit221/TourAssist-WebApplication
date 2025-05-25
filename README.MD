@@ -96,28 +96,6 @@ Frontend should be accessible at http://localhost:5173
 
 Frontend should be accessible at http://localhost:5173
 
-## BACKEND - DATABASE DESIGN
-
-- [Wiki Link](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group15/-/wikis/Database-Design)
-
-## INITIAL CODE SMELLS
-
-- [Link](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group15/-/wikis/Implementation-and-Design-Smell-and-Architecture-Designite-Reports)
-
-## CODE SMELLS POST REFACTORING
-
-- [TODO]
-
-## Frontend
-
-TourAssist requires [Node.js](https://nodejs.org/) v18+ to run.
-
-Check your node & npm version using:
-
-`node -v`
-
-`npm -v`
-
 # Use Cases:
 
 ### Customer and Agent Signup Use Case
