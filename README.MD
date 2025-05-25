@@ -49,9 +49,6 @@ Backend API should be accessible at http://localhost:8080
 
 - [Link](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group15/-/wikis/Implementation-and-Design-Smell-and-Architecture-Designite-Reports)
 
-## CODE SMELLS POST REFACTORING
-
-- [TODO]
 
 ## Frontend
 
